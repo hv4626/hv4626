@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/myself_hv" target="blank"><img src="https://img.shields.io/twitter/follow/myself_hv?logo=twitter&style=for-the-badge" alt="myself_hv" /></a> </p>
 
-- 🔭 I’m currently working on **Spiking Neural Network**
+- 🔭 I’m currently working on **Resource Allocation in mmNetworks**
 
 - 👨‍💻 All of my projects are available at [github.com/hv4626](github.com/hv4626)
 
